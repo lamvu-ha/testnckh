@@ -1,3 +1,3 @@
 # blockchain_visualization_tool
 Developing a Blockchain Activity Visualization Tool for Educational Use
-ngày 22/01 LTV có truy cập
+Tóm tắt quy trình: Thiết kế Block → Tạo Hash → Liên kết Chuỗi → Trực quan hóa → Tương tác → Kiểm tra tính toàn vẹn.
