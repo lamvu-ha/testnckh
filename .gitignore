@@ -1,0 +1,13 @@
+# IDE
+.vs/
+.settings/
+.project
+.classpath
+
+# Build
+bin/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
